@@ -3,10 +3,12 @@ Do Excel à Análise de Dados em cinco aulas.
 
 ## 🚀 Tecnologicas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+</p>
 
 ## 💻 Projeto
 A Imersão Python é um projeto para a análise e visualização de dados financeiros da Bolsa de Valores.
