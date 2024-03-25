@@ -3,7 +3,7 @@ Do Excel à Análise de Dados em cinco aulas.
 
 ## 🚀 Tecnologicas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-<p></p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
